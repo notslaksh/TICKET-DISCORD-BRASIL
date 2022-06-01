@@ -1,2 +1,3 @@
 # TICKET-DISCORD-BRASIL
 TICKET BOT BRASILEIRO
+#meu discord https://discord.gg/UZXm3veEE8
